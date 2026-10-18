@@ -34,3 +34,32 @@
 // let symbolvalue = Symbol("unique");
 // console.log(symbolvalue);
 // console.log(typeof symbolvalue);
+
+// Refrance datatype
+
+// 1) object
+// let person ={
+//   name:"aryan",
+//   age:25,
+//   city:"mumbai"
+// }
+// console.log(person.name);
+// console.log(person.age);
+// console.log(person.city);
+// console.log(person);
+// console.log(typeof person);
+
+// 2) Array
+// let fruits = ["apple", "mango", "grapes"];
+// console.log(fruits[0]);
+// console.log(fruits[1]);
+// console.log(fruits[2]);
+// console.log(fruits);
+// console.log( typeof fruits);
+
+// 3) Function  
+function greet() {
+  console.log("hello aryan");
+}
+console.log(greet());
+console.log(typeof greet);
