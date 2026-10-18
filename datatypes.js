@@ -58,8 +58,8 @@
 // console.log( typeof fruits);
 
 // 3) Function  
-function greet() {
-  console.log("hello aryan");
-}
-console.log(greet());
-console.log(typeof greet);
+// function greet() {
+//   console.log("hello aryan");
+// }
+// console.log(greet());
+// console.log(typeof greet);
