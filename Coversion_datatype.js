@@ -41,7 +41,8 @@
 // console.log(num);
 // console.log(typeof num);
 
-let num = 1;
-let value = Boolean(num);
-console.log(value);
-console.log(typeof value);
+// let num = 1 or "greater than 1" / 0; ---> true/false
+// let value = Boolean(num);
+// console.log(value);
+// console.log(typeof value) ;
+  
